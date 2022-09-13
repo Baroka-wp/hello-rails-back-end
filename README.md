@@ -4,6 +4,9 @@
 
 Use rails  to build greeting api. The app generate random greeting to user
 
+## Front end repo 
+[https://github.com/Baroka-wp/hello-react-front-end](https://github.com/Baroka-wp/hello-react-front-end)
+
 ## Built With
 
 - [x] Programming Language: Ruby
